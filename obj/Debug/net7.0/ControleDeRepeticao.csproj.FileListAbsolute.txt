@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\bin\Debug\net7.0\ControleDeRepeticao.exe
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\bin\Debug\net7.0\ControleDeRepeticao.deps.json
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\bin\Debug\net7.0\ControleDeRepeticao.runtimeconfig.json
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\bin\Debug\net7.0\ControleDeRepeticao.dll
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\bin\Debug\net7.0\ControleDeRepeticao.pdb
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.AssemblyInfo.cs
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.dll
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\refint\ControleDeRepeticao.dll
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.pdb
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ControleDeRepeticao.genruntimeconfig.cache
+C:\Users\gabri\Documents\LAB\Aula06\ControleDeRepeticao\obj\Debug\net7.0\ref\ControleDeRepeticao.dll
